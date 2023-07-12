@@ -70,7 +70,7 @@ const Login = () => {
       >
         <Pressable
           style={[styles.pressable, styles.parentFlexBox]}
-          onPress={() => navigation.navigate("SN$20:155$")}
+          onPress={() => navigation.navigate("Home1")}
         >
           <View style={[styles.loginParent, styles.parentFlexBox]}>
             <Text style={[styles.login2, styles.login2Typo]}>Login</Text>
